@@ -21,7 +21,6 @@ const float = keyframes`
 0% { transform: translateY(-10px) }
 50% { transform: translateY(30px) translateX(20px) }
 100% { transform: translateY(-10px) }
-
 `
 const Webpage = styled.div`
 position: absolute;

@@ -19,8 +19,8 @@ export const Works = [
         tags:["AfterEffect","InAWeek","Cv_Video"],
         date:"17 Dec, 2021",
         imgSrc: Shewreel,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
+        link:"https://www.youtube.com/watch?v=x0W8aFZHolI",
+        description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum.Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
         id:2,
@@ -28,7 +28,7 @@ export const Works = [
         tags:["react","InAWeek","MMI","web"],
         date:"22 Nov, 2021",
         imgSrc: AppReader,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://github.com/0ur0boss/MangaReaderJsNode",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -37,7 +37,7 @@ export const Works = [
         tags:["Js","InAWeek","MMI","web"],
         date:"23 Oct, 2021",
         imgSrc: Rouge,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://github.com/0ur0boss/onepageROUGE",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -46,7 +46,7 @@ export const Works = [
         tags:["Linux","InAWeek","MMI","web"],
         date:"10 Mar, 2021",
         imgSrc: UnJeupourmoi,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://github.com/Yovador/unjeupourmoi",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -55,7 +55,7 @@ export const Works = [
         tags:["Unity","InAWeek","MMI","Game"],
         date:"7 Nov, 2021",
         imgSrc: Loss,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://0ur0boss.itch.io/loss",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -64,7 +64,7 @@ export const Works = [
         tags:["Unity","InAWeekend","GameJam","Game"],
         date:"15 Nov, 2021",
         imgSrc: Nanimo,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://shynamo.itch.io/nanimo",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -73,7 +73,7 @@ export const Works = [
         tags:["Unity","InAMonth","SériousGame","Game"],
         date:"4 Jun, 2021",
         imgSrc: Samedi10h,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
    
@@ -83,7 +83,7 @@ export const Works = [
         tags:["3D","Blender","ForFun"],
         date:"4 Aug, 2021",
         imgSrc: Crystal,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://www.youtube.com/watch?v=rtZKjuqZGI0&list=PL42wcTZx5jzhRWndHKL-1GgK8cJWHOkJb&index=3",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -92,7 +92,7 @@ export const Works = [
         tags:["3D","Blender","ForFun"],
         date:"26 May, 2021",
         imgSrc: Plasma,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://www.youtube.com/watch?v=Q6BisE5k8tg&list=PL42wcTZx5jzhRWndHKL-1GgK8cJWHOkJb",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -101,7 +101,7 @@ export const Works = [
         tags:["3D","Blender","ForFun"],
         date:"17 Dec, 2021",
         imgSrc: FuturisticTunnel,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"https://www.youtube.com/watch?v=a_u1ntpp_bQ&list=PL42wcTZx5jzhRWndHKL-1GgK8cJWHOkJb&index=5",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -110,7 +110,7 @@ export const Works = [
         tags:["AdobeSuite","InAWeek","MMI"],
         date:"6 Sep, 2021",
         imgSrc: Flyermusée,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"*",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
     {
@@ -119,7 +119,7 @@ export const Works = [
         tags:["AdobeSuite","InAWeek","MMI"],
         date:"26 Sep, 2020",
         imgSrc: Polyphia,
-        link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        link:"*",
         description:"Curabitur eget metus faucibus, vestibulum elit nec, rutrum justo. Nullam vel purus velit. Phasellus rutrum nisl ut fermentum blandit. Nulla a felis purus. Morbi ornare consequat ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean tincidunt accumsan lectus a hendrerit. Vestibulum odio arcu, lacinia rutrum scelerisque non, tincidunt vel eros. Fusce pellentesque vel dui sit amet consequat. Nam vehicula nunc sit amet sodales interdum."
     },
   

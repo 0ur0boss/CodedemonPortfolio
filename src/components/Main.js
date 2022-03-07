@@ -9,7 +9,6 @@ import Intro from './Intro';
 import {motion} from 'framer-motion';
 // import {DarkTheme} from './Themes';
 
-
 const MainContainer = styled.div`
 /* permet de recuperer le theme du body */
 background: ${props => props.theme.body};
@@ -26,7 +25,6 @@ h2,h3,h4,h5,h6{
 const Container = styled.div`
 padding: 2rem;
 `
-
 
 const Contact = styled(NavLink)`
 color: ${props => props.theme.text};

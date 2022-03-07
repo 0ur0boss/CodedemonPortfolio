@@ -68,7 +68,7 @@ const WorkCompenent = (props) => {
     const{name, tags, date, imgSrc, id} = props.Work;
 
 
-  return <Box to={`${name}`}> 
+  return <Box to={`work${name}`}> 
       <Image img={imgSrc} />
       <Title>{name}</Title>
       <HashTags>
