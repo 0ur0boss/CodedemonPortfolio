@@ -8,6 +8,7 @@ import {BordLogo,NomLogo} from './AllSvgs';
 import Intro from './Intro';
 import {motion} from 'framer-motion';
 // import {DarkTheme} from './Themes';
+import MyCV from '../assets/zip/CvEnzoDuret.zip'
 
 const MainContainer = styled.div`
 /* permet de recuperer le theme du body */
@@ -45,7 +46,7 @@ text-decoration: none;
 z-index:1;
 `
 
-const CV = styled(NavLink)`
+const CV = styled.a`
 color: ${props => props.click ? props.theme.body : props.theme.text};
 position: absolute;
 top: 50%;
@@ -189,7 +190,7 @@ const Main = () => {
          </motion.h2>
 
        </Work>
-       <CV target="_blank" to={{pathname:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}} click={click}>
+       <CV  href={MyCV} click={click}>
          <motion.h2
          initial={{
           y:-200,
