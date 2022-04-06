@@ -113,6 +113,11 @@ const Info = styled.p`
   font-size: 20px;
 `
 
+const Guillaume = styled.h1`
+  font-family: 'Karla', sans-serif;
+
+`
+
 
 function ErrorPage() {
   return <MainContainer>
@@ -128,6 +133,7 @@ function ErrorPage() {
             <GlitchedAnim3>404</GlitchedAnim3>
         </GlitchBloc>
        <Info>Si vous êtes sur cette page, c'est que le lien sur lequel vous avez cliqué n'existe pas, plus, ou est en cours de développement. 🛠️</Info>
+       <Guillaume>OUI JE SUIS GUILLAUME</Guillaume>
        </Box>
 
   </MainContainer>

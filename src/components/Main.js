@@ -8,7 +8,7 @@ import {BordLogo,NomLogo} from './AllSvgs';
 import Intro from './Intro';
 import {motion} from 'framer-motion';
 // import {DarkTheme} from './Themes';
-import MyCV from '../assets/zip/CvEnzoDuret.zip'
+import MyCV from '../assets/Images/CvEnzoDuret.pdf'
 
 const MainContainer = styled.div`
 /* permet de recuperer le theme du body */
@@ -156,7 +156,7 @@ const Main = () => {
 
 
       {/* Liens vers les components */}
-       <Contact target="_blank" to={{pathname:"mailto:enzodupro@gmail.com"}}>
+       <Contact title="Contact me" target="_blank" to={{pathname:"mailto:enzodupro@gmail.com"}}>
          <motion.h2
          initial={{
            y:-200,
@@ -172,7 +172,7 @@ const Main = () => {
          Email me!
          </motion.h2>
        </Contact>
-       <Work to="/work">
+       <Work title="My works" to="/work">
          <motion.h2
          initial={{
           y:-200,
@@ -190,7 +190,7 @@ const Main = () => {
          </motion.h2>
 
        </Work>
-       <CV  href={MyCV} click={click}>
+       <CV title="Download my C.V here" href={MyCV} click={click}>
          <motion.h2
          initial={{
           y:-200,
@@ -208,7 +208,7 @@ const Main = () => {
 
        </CV>
        <BottomBar>
-        <AbouT to="/about" click={click}>
+        <AbouT title="About me" to="/about" click={click}>
         <motion.h2
          initial={{
           y:200,
@@ -225,7 +225,7 @@ const Main = () => {
             About
           </motion.h2>
         </AbouT>
-        <SkillS to="/skills">
+        <SkillS title="My skills" to="/skills">
         <motion.h2
          initial={{
           y:200,

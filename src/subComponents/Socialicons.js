@@ -40,7 +40,7 @@ const Socialicons = (props) => {
     animate={{scale:[0,1,1.5,1]}}
     transition={{type:'spring', duration:1, delay:1.6}}
     >
-        <NavLink style={{color: 'inherit'}} target="_blank" to={{pathname:"https://www.linkedin.com/in/enzo-duret-36535a210/"}}>
+        <NavLink rel="noreferrer" title="linkedin" style={{color: 'inherit'}} target="_blank" to={{pathname:"https://www.linkedin.com/in/enzo-duret-36535a210/"}}>
             <Linkdin width={25} height={25} fill={props.theme === "dark" ? lightTheme.body : lightTheme.text}></Linkdin>
         </NavLink>
     </motion.div>
@@ -49,7 +49,7 @@ const Socialicons = (props) => {
     animate={{scale:[0,1,1.5,1]}}
     transition={{type:'spring', duration:1, delay:1}}
     >
-        <NavLink style={{color: 'inherit'}} target="_blank" to={{pathname:"https://github.com/0ur0boss"}}>
+        <NavLink rel="noreferrer" title="github" style={{color: 'inherit'}} target="_blank" to={{pathname:"https://github.com/0ur0boss"}}>
             <Github width={25} height={25} fill={props.theme === "dark" ? lightTheme.body : lightTheme.text}></Github>
         </NavLink>
     </motion.div>
@@ -58,7 +58,7 @@ const Socialicons = (props) => {
     animate={{scale:[0,1,1.5,1]}}
     transition={{type:'spring', duration:1, delay:1.4}}
     >
-        <NavLink style={{color: 'inherit'}} target="_blank" to={{pathname:"https://www.instagram.com/enzoduret/"}}>
+        <NavLink rel="noreferrer" title="instagram" style={{color: 'inherit'}} target="_blank" to={{pathname:"https://www.instagram.com/enzoduret/"}}>
             <Instagram width={25} height={25} fill={props.theme === "dark" ? lightTheme.body : lightTheme.text}></Instagram>
         </NavLink>
     </motion.div>
@@ -67,7 +67,7 @@ const Socialicons = (props) => {
     animate={{scale:[0,1,1.5,1]}}
     transition={{type:'spring', duration:1, delay:1.2}}
     >
-        <NavLink style={{color: 'inherit'}} target="_blank" to={{pathname:"https://twitter.com/enzo_duret"}}>
+        <NavLink rel="noreferrer" title="twitter" style={{color: 'inherit'}} target="_blank" to={{pathname:"https://twitter.com/enzo_duret"}}>
             <Twitter width={25} height={25} fill={props.theme === "dark" ? lightTheme.body : lightTheme.text}></Twitter>
         </NavLink>
     </motion.div>
